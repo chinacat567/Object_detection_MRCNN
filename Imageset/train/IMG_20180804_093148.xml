@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>IMG_20180804_093148.jpg</filename>
+	<path>/home/codecraft94/Code/Deep Learning/IIITD Project/Mask_RCNN/Imageset/rejects/JPEG/IMG_20180804_093148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>273</ymin>
+			<xmax>557</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>278</ymin>
+			<xmax>286</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
